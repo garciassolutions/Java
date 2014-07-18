@@ -1,0 +1,214 @@
+Disk drive configuration...
+Drive name:			WD Caviar 30 GB (WD300BB)
+Cylinders / drive:		58,168
+Tracks / cylinder:		16
+Sectors / track:		63
+Total sectors:			58,633,344
+Total capacity:			30.020 GB
+Average rotational time:	0.004 msec
+
+     0.000: request  1 scheduled: [44,555/ 2/61]
+    12.926: request  2 scheduled: [47,675/ 0/45]
+    24.380: request  3 scheduled: [12,961/11/ 9]
+    24.755: request  1 satisfied: [44,555/ 2/61], wait:     0.000, run:    24.755
+    30.949: request  2 satisfied: [47,675/ 0/45], wait:    11.829, run:     6.194
+    39.135: request  4 scheduled: [37,879/ 9/59]
+    49.227: request  5 scheduled: [33,316/ 7/38]
+    51.166: request  3 satisfied: [12,961/11/ 9], wait:     6.569, run:    20.217
+    60.793: request  6 scheduled: [ 5,141/ 3/39]
+    66.199: request  4 satisfied: [37,879/ 9/59], wait:    12.031, run:    15.033
+    71.674: request  5 satisfied: [33,316/ 7/38], wait:    16.972, run:     5.475
+    72.210: request  7 scheduled: [23,218/ 4/50]
+    81.734: request  8 scheduled: [54,771/ 1/17]
+    87.317: request  9 scheduled: [27,405/ 5/30]
+    88.433: request  6 satisfied: [ 5,141/ 3/39], wait:    10.881, run:    16.759
+    96.044: request 10 scheduled: [39,176/ 8/31]
+    98.322: request  7 satisfied: [23,218/ 4/50], wait:    16.223, run:     9.889
+   107.314: request 11 scheduled: [ 1,317/11/ 3]
+   110.629: request  8 satisfied: [54,771/ 1/17], wait:    16.588, run:    12.307
+   117.524: request 12 scheduled: [   875/ 1/62]
+   124.213: request 13 scheduled: [ 9,448/ 3/22]
+   128.975: request  9 satisfied: [27,405/ 5/30], wait:    23.312, run:    18.346
+   133.126: request 14 scheduled: [27,550/ 8/49]
+   137.466: request 10 satisfied: [39,176/ 8/31], wait:    32.931, run:     8.491
+   145.559: request 15 scheduled: [10,148/ 5/35]
+   154.304: request 16 scheduled: [51,856/10/26]
+   158.711: request 11 satisfied: [ 1,317/11/ 3], wait:    30.152, run:    21.245
+   166.543: request 17 scheduled: [ 1,216/ 8/11]
+   166.543: request 12 satisfied: [   875/ 1/62], wait:    41.187, run:     7.832
+   177.957: request 13 satisfied: [ 9,448/ 3/22], wait:    42.330, run:    11.414
+   178.643: request 18 scheduled: [16,548/ 3/ 8]
+   188.007: request 19 scheduled: [28,153/13/23]
+   189.838: request 14 satisfied: [27,550/ 8/49], wait:    44.831, run:    11.881
+   191.416: request 20 scheduled: [55,141/ 8/ 6]
+   203.275: request 21 scheduled: [52,096/13/10]
+   204.665: request 15 satisfied: [10,148/ 5/35], wait:    44.279, run:    14.827
+   213.826: request 22 scheduled: [21,184/13/ 4]
+   224.924: request 23 scheduled: [15,538/10/13]
+   228.490: request 16 satisfied: [51,856/10/26], wait:    50.361, run:    23.825
+   234.875: request 24 scheduled: [ 4,688/11/ 8]
+   244.586: request 25 scheduled: [52,384/ 4/ 9]
+   251.397: request 17 satisfied: [ 1,216/ 8/11], wait:    61.947, run:    22.907
+   254.536: request 26 scheduled: [20,067/ 4/50]
+   259.331: request 18 satisfied: [16,548/ 3/ 8], wait:    72.754, run:     7.934
+   261.587: request 27 scheduled: [44,998/15/27]
+   269.752: request 19 satisfied: [28,153/13/23], wait:    71.324, run:    10.421
+   271.469: request 28 scheduled: [56,727/ 4/58]
+   280.009: request 29 scheduled: [47,953/10/59]
+   284.139: request 20 satisfied: [55,141/ 8/ 6], wait:    78.336, run:    14.387
+   290.320: request 30 scheduled: [16,618/12/ 9]
+   292.954: request 21 satisfied: [52,096/13/10], wait:    80.864, run:     8.815
+   298.135: request 31 scheduled: [49,958/ 7/46]
+   308.887: request 22 satisfied: [21,184/13/ 4], wait:    79.128, run:    15.933
+   310.809: request 32 scheduled: [55,105/10/48]
+   318.419: request 23 satisfied: [15,538/10/13], wait:    83.963, run:     9.532
+   322.174: request 33 scheduled: [17,423/12/24]
+   326.079: request 24 satisfied: [ 4,688/11/ 8], wait:    83.544, run:     7.660
+   332.154: request 34 scheduled: [11,979/ 5/13]
+   338.254: request 35 scheduled: [ 5,045/13/52]
+   348.153: request 36 scheduled: [55,459/11/28]
+   351.199: request 25 satisfied: [52,384/ 4/ 9], wait:    81.493, run:    25.120
+   357.747: request 37 scheduled: [55,461/ 4/59]
+   364.945: request 26 satisfied: [20,067/ 4/50], wait:    96.663, run:    13.746
+   368.548: request 38 scheduled: [52,892/11/60]
+   378.528: request 27 satisfied: [44,998/15/27], wait:   103.358, run:    13.583
+   380.933: request 39 scheduled: [30,636/ 5/40]
+   390.973: request 28 satisfied: [56,727/ 4/58], wait:   107.059, run:    12.445
+   393.194: request 40 scheduled: [38,685/ 3/39]
+   399.410: request 29 satisfied: [47,953/10/59], wait:   110.964, run:     8.437
+   406.162: request 41 scheduled: [26,844/ 5/32]
+   416.143: request 42 scheduled: [31,814/ 9/40]
+   417.863: request 30 satisfied: [16,618/12/ 9], wait:   109.090, run:    18.453
+   428.058: request 43 scheduled: [47,907/ 2/24]
+   431.019: request 31 satisfied: [49,958/ 7/46], wait:   119.728, run:    13.156
+   435.482: request 44 scheduled: [30,326/ 3/25]
+   439.726: request 32 satisfied: [55,105/10/48], wait:   120.210, run:     8.707
+   444.723: request 45 scheduled: [49,891/12/22]
+   455.898: request 46 scheduled: [30,979/14/37]
+   461.442: request 33 satisfied: [17,423/12/24], wait:   117.552, run:    21.716
+   462.948: request 47 scheduled: [35,992/ 6/ 9]
+   468.395: request 34 satisfied: [11,979/ 5/13], wait:   129.288, run:     6.953
+   469.022: request 48 scheduled: [32,402/14/39]
+   473.586: request 35 satisfied: [ 5,045/13/52], wait:   130.141, run:     5.191
+   477.795: request 49 scheduled: [44,742/ 0/51]
+   486.281: request 50 scheduled: [13,964/10/ 4]
+   495.361: request 36 satisfied: [55,459/11/28], wait:   125.433, run:    21.775
+   499.478: request 37 satisfied: [55,461/ 4/59], wait:   137.614, run:     4.117
+   507.873: request 38 satisfied: [52,892/11/60], wait:   130.930, run:     8.395
+   521.905: request 39 satisfied: [30,636/ 5/40], wait:   126.940, run:    14.032
+   530.105: request 40 satisfied: [38,685/ 3/39], wait:   128.711, run:     8.200
+   537.560: request 41 satisfied: [26,844/ 5/32], wait:   123.943, run:     7.455
+   546.871: request 42 satisfied: [31,814/ 9/40], wait:   121.417, run:     9.311
+   561.535: request 43 satisfied: [47,907/ 2/24], wait:   118.813, run:    14.664
+   569.939: request 44 satisfied: [30,326/ 3/25], wait:   126.053, run:     8.404
+   586.267: request 45 satisfied: [49,891/12/22], wait:   125.216, run:    16.328
+   596.561: request 46 satisfied: [30,979/14/37], wait:   130.369, run:    10.294
+   601.125: request 47 satisfied: [35,992/ 6/ 9], wait:   133.613, run:     4.564
+   605.092: request 48 satisfied: [32,402/14/39], wait:   132.103, run:     3.967
+   615.091: request 49 satisfied: [44,742/ 0/51], wait:   127.297, run:     9.999
+   633.891: request 50 satisfied: [13,964/10/ 4], wait:   128.810, run:    18.800
+
+   633.891:  Avg. wait:     83.102,  Avg. run:      12.677
+
+     0.000: request  1 scheduled: [44,555/ 2/61]
+    12.926: request  2 scheduled: [47,675/ 0/45]
+    24.380: request  3 scheduled: [12,961/11/ 9]
+    24.755: request  1 satisfied: [44,555/ 2/61], wait:     0.000, run:    24.755
+    30.949: request  2 satisfied: [47,675/ 0/45], wait:    11.829, run:     6.194
+    39.135: request  4 scheduled: [37,879/ 9/59]
+    49.227: request  5 scheduled: [33,316/ 7/38]
+    51.166: request  3 satisfied: [12,961/11/ 9], wait:     6.569, run:    20.217
+    60.793: request  6 scheduled: [ 5,141/ 3/39]
+    63.386: request  5 satisfied: [33,316/ 7/38], wait:     1.939, run:    12.220
+    72.210: request  7 scheduled: [23,218/ 4/50]
+    74.417: request  4 satisfied: [37,879/ 9/59], wait:    24.251, run:    11.031
+    81.603: request  7 satisfied: [23,218/ 4/50], wait:     2.207, run:     7.186
+    81.734: request  8 scheduled: [54,771/ 1/17]
+    87.317: request  9 scheduled: [27,405/ 5/30]
+    96.044: request 10 scheduled: [39,176/ 8/31]
+    96.783: request  6 satisfied: [ 5,141/ 3/39], wait:    20.810, run:    15.180
+   107.314: request 11 scheduled: [ 1,317/11/ 3]
+   112.273: request  9 satisfied: [27,405/ 5/30], wait:     9.466, run:    15.490
+   117.524: request 12 scheduled: [   875/ 1/62]
+   120.764: request 10 satisfied: [39,176/ 8/31], wait:    16.229, run:     8.491
+   124.213: request 13 scheduled: [ 9,448/ 3/22]
+   133.126: request 14 scheduled: [27,550/ 8/49]
+   135.530: request  8 satisfied: [54,771/ 1/17], wait:    39.030, run:    14.766
+   145.559: request 15 scheduled: [10,148/ 5/35]
+   148.142: request 14 satisfied: [27,550/ 8/49], wait:     2.404, run:    12.612
+   154.304: request 16 scheduled: [51,856/10/26]
+   162.969: request 15 satisfied: [10,148/ 5/35], wait:     2.583, run:    14.827
+   166.543: request 17 scheduled: [ 1,216/ 8/11]
+   169.563: request 13 satisfied: [ 9,448/ 3/22], wait:    38.756, run:     6.594
+   175.409: request 11 satisfied: [ 1,317/11/ 3], wait:    62.249, run:     5.846
+   178.643: request 18 scheduled: [16,548/ 3/ 8]
+   184.717: request 17 satisfied: [ 1,216/ 8/11], wait:     8.866, run:     9.308
+   188.007: request 19 scheduled: [28,153/13/23]
+   191.416: request 20 scheduled: [55,141/ 8/ 6]
+   191.590: request 12 satisfied: [   875/ 1/62], wait:    67.193, run:     6.873
+   201.091: request 18 satisfied: [16,548/ 3/ 8], wait:    12.947, run:     9.501
+   203.275: request 21 scheduled: [52,096/13/10]
+   211.379: request 19 satisfied: [28,153/13/23], wait:    13.084, run:    10.288
+   213.826: request 22 scheduled: [21,184/13/ 4]
+   224.924: request 23 scheduled: [15,538/10/13]
+   228.397: request 16 satisfied: [51,856/10/26], wait:    57.075, run:    17.018
+   234.708: request 21 satisfied: [52,096/13/10], wait:    25.122, run:     6.311
+   234.875: request 24 scheduled: [ 4,688/11/ 8]
+   242.465: request 20 satisfied: [55,141/ 8/ 6], wait:    43.292, run:     7.757
+   244.586: request 25 scheduled: [52,384/ 4/ 9]
+   254.536: request 26 scheduled: [20,067/ 4/50]
+   258.864: request 22 satisfied: [21,184/13/ 4], wait:    28.639, run:    16.399
+   261.587: request 27 scheduled: [44,998/15/27]
+   264.933: request 26 satisfied: [20,067/ 4/50], wait:     4.328, run:     6.069
+   268.412: request 23 satisfied: [15,538/10/13], wait:    40.009, run:     3.479
+   271.469: request 28 scheduled: [56,727/ 4/58]
+   276.072: request 24 satisfied: [ 4,688/11/ 8], wait:    33.537, run:     7.660
+   280.009: request 29 scheduled: [47,953/10/59]
+   290.320: request 30 scheduled: [16,618/12/ 9]
+   295.207: request 27 satisfied: [44,998/15/27], wait:    14.485, run:    19.135
+   298.135: request 31 scheduled: [49,958/ 7/46]
+   299.495: request 29 satisfied: [47,953/10/59], wait:    15.198, run:     4.288
+   306.118: request 31 satisfied: [49,958/ 7/46], wait:     1.360, run:     6.623
+   309.571: request 25 satisfied: [52,384/ 4/ 9], wait:    61.532, run:     3.453
+   310.809: request 32 scheduled: [55,105/10/48]
+   316.032: request 28 satisfied: [56,727/ 4/58], wait:    38.102, run:     6.461
+   322.174: request 33 scheduled: [17,423/12/24]
+   323.059: request 32 satisfied: [55,105/10/48], wait:     5.223, run:     7.027
+   332.154: request 34 scheduled: [11,979/ 5/13]
+   338.254: request 35 scheduled: [ 5,045/13/52]
+   344.775: request 33 satisfied: [17,423/12/24], wait:     0.885, run:    21.716
+   348.153: request 36 scheduled: [55,459/11/28]
+   351.139: request 30 satisfied: [16,618/12/ 9], wait:    54.455, run:     6.364
+   357.747: request 37 scheduled: [55,461/ 4/59]
+   360.077: request 34 satisfied: [11,979/ 5/13], wait:    18.985, run:     8.938
+   365.136: request 35 satisfied: [ 5,045/13/52], wait:    21.823, run:     5.059
+   368.548: request 38 scheduled: [52,892/11/60]
+   380.933: request 39 scheduled: [30,636/ 5/40]
+   387.043: request 36 satisfied: [55,459/11/28], wait:    16.983, run:    21.907
+   391.160: request 37 satisfied: [55,461/ 4/59], wait:    29.296, run:     4.117
+   393.194: request 40 scheduled: [38,685/ 3/39]
+   399.555: request 38 satisfied: [52,892/11/60], wait:    22.612, run:     8.395
+   406.162: request 41 scheduled: [26,844/ 5/32]
+   413.471: request 40 satisfied: [38,685/ 3/39], wait:     6.361, run:    13.916
+   416.143: request 42 scheduled: [31,814/ 9/40]
+   421.936: request 39 satisfied: [30,636/ 5/40], wait:    32.538, run:     8.465
+   428.058: request 43 scheduled: [47,907/ 2/24]
+   429.276: request 41 satisfied: [26,844/ 5/32], wait:    15.774, run:     7.340
+   435.482: request 44 scheduled: [30,326/ 3/25]
+   438.587: request 42 satisfied: [31,814/ 9/40], wait:    13.133, run:     9.311
+   444.723: request 45 scheduled: [49,891/12/22]
+   453.119: request 43 satisfied: [47,907/ 2/24], wait:    10.529, run:    14.532
+   455.898: request 46 scheduled: [30,979/14/37]
+   461.190: request 45 satisfied: [49,891/12/22], wait:     8.396, run:     8.071
+   462.948: request 47 scheduled: [35,992/ 6/ 9]
+   469.022: request 48 scheduled: [32,402/14/39]
+   471.484: request 46 satisfied: [30,979/14/37], wait:     5.292, run:    10.294
+   477.795: request 49 scheduled: [44,742/ 0/51]
+   478.327: request 44 satisfied: [30,326/ 3/25], wait:    36.002, run:     6.843
+   486.281: request 50 scheduled: [13,964/10/ 4]
+   488.412: request 48 satisfied: [32,402/14/39], wait:     9.305, run:    10.085
+   492.775: request 47 satisfied: [35,992/ 6/ 9], wait:    25.464, run:     4.363
+   498.427: request 49 satisfied: [44,742/ 0/51], wait:    14.980, run:     5.652
+   517.227: request 50 satisfied: [13,964/10/ 4], wait:    12.146, run:    18.800
+
+   517.227:  Avg. wait:     21.265,  Avg. run:      10.344
